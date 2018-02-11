@@ -1,2 +1,12 @@
 # xi2pi.github.io
-This repository contains the main website on which I would like to present all my projects.
+
+## Current projects:
+
+[Reference curves](https://xi2pi.github.io/reference-curves/)
+
+[Elastance function](https://github.com/xi2pi/elastance-function/)
+
+## References:
+
+[Publication list of Department for Pediatric Cardiology in Bonn](https://xi2pi.github.io/PedCardio-Bonn/)
+
