@@ -2,7 +2,7 @@
 
 ## My blog:
 
-[xi2pi](xi2pi.com)
+[xi2pi](https://xi2pi.com/)
 
 ## Current projects:
 
